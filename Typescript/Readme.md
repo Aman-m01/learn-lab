@@ -20,4 +20,4 @@
 
 - [`Basic types`](./TS-notes/02-basicTypes.ts)
 - [`Functions`](./Ts-notes/03-Functions.ts)
--
+- [`interface`](./TS-notes/04-interface.ts)
