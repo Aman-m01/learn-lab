@@ -19,5 +19,5 @@
 ## `topics 🔎`
 
 - [`Basic types`](./TS-notes/02-basicTypes.ts)
-- [`Functions`](./TS-notes/03-Functions.ts)
+- [`Functions`](./Ts-notes/03-Functions.ts)
 -
